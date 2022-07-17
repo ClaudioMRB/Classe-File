@@ -623,3 +623,5 @@ Let's see the simple example of printing integer value by format specifier.
 ```
 Output:10
 ```
+
+.
